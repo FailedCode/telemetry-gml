@@ -1,0 +1,1 @@
+global.telemetry.sendMessage("GameEnd");

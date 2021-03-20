@@ -1,0 +1,1 @@
+global.telemetry.checkAsync();
